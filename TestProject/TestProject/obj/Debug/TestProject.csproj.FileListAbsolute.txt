@@ -1,6 +1,0 @@
-E:\Work\Development\GitRepOne\TestProject\TestProject\bin\Debug\TestProject.exe.config
-E:\Work\Development\GitRepOne\TestProject\TestProject\bin\Debug\TestProject.exe
-E:\Work\Development\GitRepOne\TestProject\TestProject\bin\Debug\TestProject.pdb
-E:\Work\Development\GitRepOne\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
-E:\Work\Development\GitRepOne\TestProject\TestProject\obj\Debug\TestProject.exe
-E:\Work\Development\GitRepOne\TestProject\TestProject\obj\Debug\TestProject.pdb
